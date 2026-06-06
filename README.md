@@ -145,6 +145,9 @@ These components manage the storage of your information without using a heavy ex
 4.Modern UI Framework: Upgrade from legacy Java Swing to JavaFX or a web frontend for better design and responsive layouts.
 
 5.Cloud Backup: Sync local qr_history.txt data with cloud storage (like AWS S3) to prevent data loss.
+## Screenshots
+https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/c042a50a9e1adf24195859966a2c343e18b2769d/Screenshot%202026-05-12%20170400.png
+
 ## Contributing to QR System Pro
 Thank you for wanting to improve this project! Please follow these quick steps to contribute:
 
