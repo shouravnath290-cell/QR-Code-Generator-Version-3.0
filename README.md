@@ -150,7 +150,8 @@ These components manage the storage of your information without using a heavy ex
 https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/c042a50a9e1adf24195859966a2c343e18b2769d/Screenshot%202026-05-12%20170400.png
 [QR code system – Dashboard (GUI)]
 https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/1d9e72387a947721cb629b8d72a6441af1b64ebd/Screenshot%202026-05-12%20170735.png
-
+[QR code Generator Interface (GUI)]
+https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/4e79289d06c0f2f127edbd2e98f2a1e0ab16ca94/Screenshot%202026-05-12%20171820.png
 ## Contributing to QR System Pro
 Thank you for wanting to improve this project! Please follow these quick steps to contribute:
 
