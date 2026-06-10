@@ -152,7 +152,7 @@ These components manage the storage of your information without using a heavy ex
 
 [QR code system – Dashboard (GUI)]
 
-![Project Banner])(https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/1d9e72387a947721cb629b8d72a6441af1b64ebd/Screenshot%202026-05-12%20170735.png)
+![Project Banner](https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/1d9e72387a947721cb629b8d72a6441af1b64ebd/Screenshot%202026-05-12%20170735.png)
 
 [QR code Generator Interface (GUI)]
 
