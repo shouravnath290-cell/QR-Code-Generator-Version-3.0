@@ -147,7 +147,8 @@ These components manage the storage of your information without using a heavy ex
 5.Cloud Backup: Sync local qr_history.txt data with cloud storage (like AWS S3) to prevent data loss.
 ## Screenshots
 [Login Window]
-https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/c042a50a9e1adf24195859966a2c343e18b2769d/Screenshot%202026-05-12%20170400.png
+
+![Project Banner](https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/c042a50a9e1adf24195859966a2c343e18b2769d/Screenshot%202026-05-12%20170400.png)
 [QR code system – Dashboard (GUI)]
 https://github.com/shouravnath290-cell/QR-Code-Generator-Version-3.0/blob/1d9e72387a947721cb629b8d72a6441af1b64ebd/Screenshot%202026-05-12%20170735.png
 [QR code Generator Interface (GUI)]
